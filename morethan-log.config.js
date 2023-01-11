@@ -1,14 +1,14 @@
 /*
  * @Date: 2023-01-11 14:20:45
  * @LastEditors: Peelson github@peelson.cn
- * @LastEditTime: 2023-01-11 15:49:10
+ * @LastEditTime: 2023-01-11 16:10:24
  * @FilePath: /morethan-log/morethan-log.config.js
  */
 const CONFIG = {
   // profile setting (required)
   profile: {
     name: 'Peelson',
-    image: '/avatar.jpg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: '/avatar.png',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'Life R.D.',
     bio: '做自己的快速跑车',
     email: 'peelson@peelson.cn',
