@@ -1,14 +1,14 @@
 /*
  * @Date: 2023-01-11 14:20:45
  * @LastEditors: Peelson github@peelson.cn
- * @LastEditTime: 2023-01-11 14:33:36
+ * @LastEditTime: 2023-01-11 15:49:10
  * @FilePath: /morethan-log/morethan-log.config.js
  */
 const CONFIG = {
   // profile setting (required)
   profile: {
     name: 'Peelson',
-    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: '/avatar.jpg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'Life R.D.',
     bio: '做自己的快速跑车',
     email: 'peelson@peelson.cn',
@@ -17,6 +17,10 @@ const CONFIG = {
     instagram: '',
   },
   projects: [
+    {
+      name: '',
+      href: ''
+    }
   ],
   // blog setting (required)
   blog: {
@@ -26,7 +30,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: 'https://morethan-log.vercel.app',
+  link: 'https://peelsonx.com',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
