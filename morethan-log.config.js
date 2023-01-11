@@ -1,7 +1,7 @@
 /*
  * @Date: 2023-01-11 14:20:45
  * @LastEditors: Peelson github@peelson.cn
- * @LastEditTime: 2023-01-11 16:10:24
+ * @LastEditTime: 2023-01-11 17:07:32
  * @FilePath: /morethan-log/morethan-log.config.js
  */
 const CONFIG = {
@@ -59,7 +59,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'morethanmin/morethan-log',
+      repo: 'escnqh/morethan-log',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
