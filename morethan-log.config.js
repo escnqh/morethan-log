@@ -1,26 +1,28 @@
+/*
+ * @Date: 2023-01-11 14:20:45
+ * @LastEditors: Peelson github@peelson.cn
+ * @LastEditTime: 2023-01-11 14:33:36
+ * @FilePath: /morethan-log/morethan-log.config.js
+ */
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: 'morethanmin',
+    name: 'Peelson',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'frontend developer',
-    bio: 'I develop everything using node.',
-    email: 'morethanmin.dev@gmail.com',
-    linkedin: 'morethanmin',
-    github: 'morethanmin',
+    role: 'Life R.D.',
+    bio: '做自己的快速跑车',
+    email: 'peelson@peelson.cn',
+    linkedin: '',
+    github: '',
     instagram: '',
   },
   projects: [
-    {
-      name: 'Untilled',
-      href: 'https://untilled.web.app'
-    }
   ],
   // blog setting (required)
   blog: {
-    title: 'morethan-log',
-    description: 'welcome to morethan-log!',
-    theme: 'light' // ['light', 'dark', 'auto']
+    title: 'Peelson\'s blog',
+    description: 'Welcome to Peelson\'s blog!',
+    theme: 'auto' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
