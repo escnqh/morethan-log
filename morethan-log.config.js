@@ -1,7 +1,7 @@
 /*
  * @Date: 2023-01-11 14:20:45
  * @LastEditors: Peelson github@peelson.cn
- * @LastEditTime: 2023-01-13 19:37:05
+ * @LastEditTime: 2023-01-13 19:51:14
  * @FilePath: /morethan-log/morethan-log.config.js
  */
 const CONFIG = {
@@ -11,7 +11,7 @@ const CONFIG = {
     image: '/avatar.png',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'Life R.D.',
     bio: 'TALK TO ME.',
-    email: 'peelson@peelson.cn',
+    email: 'mail@peelsonx.com',
     linkedin: '',
     github: '',
     instagram: '',
