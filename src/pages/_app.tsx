@@ -1,3 +1,9 @@
+/*
+ * @Date: 2023-01-11 14:20:45
+ * @LastEditors: Peelson github@peelson.cn
+ * @LastEditTime: 2023-01-13 19:03:38
+ * @FilePath: /morethan-log/src/pages/_app.tsx
+ */
 import 'prismjs/themes/prism.css'
 import 'react-notion-x/src/styles.css'
 import 'katex/dist/katex.min.css'

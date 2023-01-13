@@ -1,7 +1,7 @@
 /*
  * @Date: 2023-01-11 14:20:45
  * @LastEditors: Peelson github@peelson.cn
- * @LastEditTime: 2023-01-11 17:07:32
+ * @LastEditTime: 2023-01-13 19:37:05
  * @FilePath: /morethan-log/morethan-log.config.js
  */
 const CONFIG = {
@@ -10,7 +10,7 @@ const CONFIG = {
     name: 'Peelson',
     image: '/avatar.png',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'Life R.D.',
-    bio: '做自己的快速跑车',
+    bio: 'TALK TO ME.',
     email: 'peelson@peelson.cn',
     linkedin: '',
     github: '',
@@ -24,8 +24,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: 'Peelson\'s blog',
-    description: 'Welcome to Peelson\'s blog!',
+    title: 'Peelson\'s Blog',
+    description: 'Welcome to Peelson\'s Blog!',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
 

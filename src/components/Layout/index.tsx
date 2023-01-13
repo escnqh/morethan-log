@@ -1,3 +1,9 @@
+/*
+ * @Date: 2023-01-11 14:20:45
+ * @LastEditors: Peelson github@peelson.cn
+ * @LastEditTime: 2023-01-13 18:08:20
+ * @FilePath: /morethan-log/src/components/Layout/index.tsx
+ */
 import Header from './Header'
 import PropTypes from 'prop-types'
 import MetaConfig, { MetaConfigProps } from './MetaConfig'
@@ -17,7 +23,7 @@ const Layout: React.FC<Props> = ({
     <div>
       <MetaConfig {...metaConfig} />
       <div className={`wrapper font-sans`}>
-        {metaConfig.type !== 'Page' && <Header fullWidth={fullWidth} />}
+        { <Header fullWidth={fullWidth} />}
         <main
           className={`m-auto flex-grow w-full transition-all max-w-6xl px-4 ${
             fullWidth && 'px-4 md:px-24'

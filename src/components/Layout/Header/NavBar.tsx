@@ -1,7 +1,16 @@
+/*
+ * @Date: 2023-01-11 14:20:45
+ * @LastEditors: Peelson github@peelson.cn
+ * @LastEditTime: 2023-01-13 19:21:35
+ * @FilePath: /morethan-log/src/components/Layout/Header/NavBar.tsx
+ */
 import Link from 'next/link'
 
 const NavBar: React.FC = () => {
-  const links = [{ id: 1, name: 'About', to: '/about' }]
+  const links = [
+    { id: 1, name: 'About', to: '/about' },
+    { id: 2, name: 'Memos', to: '/memos' } 
+  ]
   return (
     <div className="flex-shrink-0">
       <ul className="flex flex-row">
